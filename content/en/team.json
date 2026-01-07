@@ -1,0 +1,47 @@
+{
+  "title": "Our Team",
+  "description": "",
+  "members": [
+    {
+      "name": "Ilya Paveliev",
+      "role": "CEO",
+      "bio": "Founding partner @ Arete Capital, launched a $20M VC fund with institutional LP backing.\n\nEx-PM @ Adrian Lee & Partners ($14B AUM) and M&A advisory @ Perella Weinberg Partners.\n\nRecognized for bridging deep technical innovation (AI, Web3) with capital markets.",
+      "avatar": "/team/ilya-paveliev.jpg",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/trinityinvestor/"
+      }
+    },
+    {
+      "name": "Ari Lerner",
+      "role": "CTO",
+      "bio": "Former CTO & Co-Founder, byte-hacker, and author driving AI innovation in distributed systems.\n\nCybersecurity hacker and product builder shaping the future of intelligent infrastructure.\n\nCreated Password Genie and Python for Hackers, leading applied AI in optimization, security, and human interaction.",
+      "avatar": "/team/ari-lerner.jpg",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/arilerner/"
+      }
+    },
+    {
+      "name": "Bill Wright",
+      "role": "CHIEF ARCHITECT",
+      "bio": "Former Chief AI Architect at Red Hat CTO Office driving enterprise AI/ML strategy and growth.\n\nLed NFV innovations at Affirmed Networks fuelling a multi-billion-dollar virtual infrastructure telco transformation.\n\nShaped edge AI and virtualized network research at VMWare.",
+      "avatar": "/team/bill-wright.jpg",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/billwright1/"
+      }
+    },
+    {
+      "name": "Alex Flom",
+      "role": "HEAD OF RESEARCH",
+      "bio": "Previously Systems Engineering at US Military and Red Hat focused on emergent tech R&D.\n\nDesigned the air-gapped enterprise software distribution for Red Hat OpenShift.\n\nCo-created multiple compliance solutions, including ComplyScribe with DoW, US Navy, IBM Research & NIST.",
+      "avatar": "/team/alex-flom.jpg",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/alexander-flom/"
+      }
+    }
+  ],
+  "joinTeam": {
+    "title": "Join the community",
+    "description": "Connect with researchers, developers, and contributors building the future of AI data infrastructure.",
+    "viewPositions": "Explore the UOR Foundation"
+  }
+}
